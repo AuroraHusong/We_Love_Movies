@@ -9,14 +9,14 @@ when the user goes to this route they can see the reviews for that movie.
 User Stories:
 As a user, I should be able to:
 
-Get a single movies information
-List currently showing movies
-Get all theaters
-Get submitted reviews
-Get the critic that submitted the review
-Create a review
-Update a review
-Delete a review
-See option to enter score with user's name into the high score list
-Have user name & high score saved to rails backend
-View high score list via rails backend
+*Get a single movies information
+*List currently showing movies
+*Get all theaters
+*Get submitted reviews
+*Get the critic that submitted the review
+*Create a review
+*Update a review
+*Delete a review
+*See option to enter score with user's name into the high score list
+*Have user name & high score saved to rails backend
+*View high score list via rails backend
