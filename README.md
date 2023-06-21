@@ -1,4 +1,5 @@
 Node/Express App - WeLoveMovies
+
 Project Pitch:
 The aim of this web application is to provide the user with a movie review and information site, similar to IMDB.
 This is a Node.js, express, and knex application. The backend supplements a front end that lets a user search for a movie, get information on said movie.
